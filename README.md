@@ -3,3 +3,4 @@
 - [Autonomous DB Core Series] 1 환경 셋업
 - [Autonomous DB Core Series] 2 데이터 Movement
 - [Autonomous DB Core Series] 3 Management Perspectives
+- SEC GSCM PoC - DB System DR: 삼성전자 Mission Critical Workload 클라우드 전환 Data Guard PoC 기술 문서 정리
